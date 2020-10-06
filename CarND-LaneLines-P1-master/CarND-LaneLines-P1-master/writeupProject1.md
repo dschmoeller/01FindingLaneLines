@@ -31,7 +31,6 @@ Constructing the solid line covers for left and right lane comprises the followi
 - Merging/Adding both solid lines for right and left lane to the initial input image  
 
 The pipeline and its corresponding outputs are visualized in the Pipeline.pdf, which is attached in the repository. (Note that the numbers (1) - (7) are consistent with the comments in the jupyter notebook)
-![Screenshot](Pipeline.png)
 
 
 
