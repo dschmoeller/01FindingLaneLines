@@ -32,6 +32,8 @@ Constructing the solid line covers for left and right lane comprises the followi
 
 The pipeline and its corresponding outputs are visualized in the Pipeline.pdf, which is attached in the repository. (Note that the numbers (1) - (7) are consistent with the comments in the jupyter notebook)
 
+[]: https://github.com/dschmoeller/01FindingLaneLines/blob/master/CarND-LaneLines-P1-master/CarND-LaneLines-P1-master/Pipeline.PNG
+
 
 
 ### 2. Identify potential shortcomings with your current pipeline
